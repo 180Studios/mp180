@@ -1,6 +1,6 @@
 
 void setup() {  
-  /*Enter code from instruction sheet here*/
+ //add code here
 }
 
 void loop() { }
